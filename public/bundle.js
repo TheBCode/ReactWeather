@@ -24940,10 +24940,10 @@
 	        };
 	    },
 	    handleSearch: function handleSearch(location) {
-	        this.setState({
-	            location: location,
-	            temp: 23
-	        });
+	        // this.setState({
+	        //     location: location,
+	        //     temp: 23
+	        // });
 	    },
 
 	    render: function render() {
