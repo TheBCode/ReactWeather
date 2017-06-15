@@ -62,8 +62,3 @@ typings/
 
 .gitignore
 .idea/
-app/
-package.json
-public/
-server.js
-webpack.config.js
