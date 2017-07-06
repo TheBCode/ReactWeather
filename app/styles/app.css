@@ -1,12 +1,12 @@
 .page-title {
-    margin-top: 2.5rem;
-    margin-bottom: 2.5rem;
-}
+  color: #1585CF;
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem; }
 
 input[type=search] {
-    box-shadow: none;
-}
+  box-shadow: none; }
 
-li{
-    list-style: none;
-}
+li {
+  list-style: none; }
+
+/*# sourceMappingURL=app.css.map */
